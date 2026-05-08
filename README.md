@@ -8,8 +8,8 @@ The game combines action-packed gameplay with advanced Object-Oriented Programmi
 
 # Developers
 
-- Rameen Fatima (24I-0782)
-- Aizah Atif (24I-0840)
+- Rameen Fatima 
+- Aizah Atif 
 
 ---
 
