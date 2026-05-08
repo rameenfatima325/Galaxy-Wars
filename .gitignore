@@ -1,0 +1,24 @@
+# Executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+
+# CodeBlocks
+bin/
+obj/
+
+# Dev C++
+*.layout
+
+# Temporary files
+*.tmp
+
+# Environment files
+.env
